@@ -35,16 +35,14 @@ O objetivo deste projeto é demonstrar o uso de manipulação de DOM em um ambie
 
 ## 🎨 Imagens & Animações
 
-- **GIF de Mario correndo**:
-  <p align="center">
-    <img src="img-preview/mario-run" width="100%" />
+- **GIF do Mario correndo**:
+  <p align="left">
+    <img src="img-preview/mario-run.png" width="100" />
   </p>
 
-  <br>
-
-- **Imagem de Mario morto**:
-  <p align="center">
-    <img src="img-preview/mario-death" width="100%" />
+- **Imagem do Mario morto**:
+  <p align="left">
+    <img src="img-preview/mario-death.png" width="100" />
   </p>
 
 ## 📦 Como rodar o projeto
@@ -55,4 +53,4 @@ O objetivo deste projeto é demonstrar o uso de manipulação de DOM em um ambie
 
 2. Abra o arquivo index.html em um navegador de sua escolha.
 
-Powered by Gabriel Silveira 🚀
+Desenvolvido por Gabriel Silveira 🚀
