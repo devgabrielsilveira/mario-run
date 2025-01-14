@@ -35,8 +35,17 @@ O objetivo deste projeto é demonstrar o uso de manipulação de DOM em um ambie
 
 ## 🎨 Imagens & Animações
 
-- **GIF de Mario correndo**: [Descrição da animação do Mario correndo.]
-- **Imagem de Mario morto**: [Quando Mario colide com o obstáculo, essa imagem é exibida.]
+- **GIF de Mario correndo**:
+  <p align="center">
+    <img src="img-preview/mario-run" width="100%" />
+  </p>
+
+  <br>
+
+- **Imagem de Mario morto**:
+  <p align="center">
+    <img src="img-preview/mario-death" width="100%" />
+  </p>
 
 ## 📦 Como rodar o projeto
 
