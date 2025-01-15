@@ -38,7 +38,7 @@ O objetivo deste projeto é demonstrar o uso de manipulação de DOM em um ambie
 
 ## 🎨 Imagens & Animações
 
-- **GIF do Mario correndo**:
+- **Imagem do Mario correndo**:
   <p align="left">
     <img src="img-preview/mario-run.png" width="100" />
   </p>
