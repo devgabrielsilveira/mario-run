@@ -1,4 +1,7 @@
-# Mario-Run 🎮
+<div align="center">
+  <h1>Mario-Run 🎮</h1>
+</div>
+
 
 <p align="center">
   <img src="img-preview/preview.png" width="100%" />
@@ -52,5 +55,12 @@ O objetivo deste projeto é demonstrar o uso de manipulação de DOM em um ambie
    git clone https://github.com/seu-usuario/mario-run.git
 
 2. Abra o arquivo index.html em um navegador de sua escolha.
+
+## 📬 Contato
+
+Em caso de dúvidas ou sugestões, entre em contato:
+
+- **Email**: devgabrielsilveira@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/gabriel-silveira-67979b18a/
 
 Desenvolvido por Gabriel Silveira 🚀
